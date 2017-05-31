@@ -1,0 +1,24 @@
+{
+  "name": "stream-webrtc-nodejs-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "peerjs": "^0.3.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lttin0912/stream-webRTC-nodejs-2.git"
+  },
+  "author": "Bii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lttin0912/stream-webRTC-nodejs-2/issues"
+  },
+  "homepage": "https://github.com/lttin0912/stream-webRTC-nodejs-2#readme"
+}
